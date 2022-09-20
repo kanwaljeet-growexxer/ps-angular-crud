@@ -1,0 +1,12 @@
+.ps-angular-crud .psi-page-header {
+  padding: 17px 18px;
+  background: #fff; }
+  .ps-angular-crud .psi-page-header i.fa-dollar-sign {
+    padding-top: 2px;
+    font-size: 17px; }
+    .ps-angular-crud .psi-page-header i.fa-dollar-sign:before {
+      vertical-align: text-top; }
+  .ps-angular-crud .psi-page-header .u-ml3 {
+    color: #272727 !important;
+    font-family: "HelveticaNeue" !important;
+    line-height: 20px !important; }

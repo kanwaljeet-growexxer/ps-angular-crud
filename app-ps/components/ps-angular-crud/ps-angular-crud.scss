@@ -1,0 +1,18 @@
+.ps-angular-crud {
+    .psi-page-header {
+        padding: 17px 18px;
+        background: #fff;
+        i.fa-dollar-sign {
+            padding-top: 2px;
+            font-size: 17px;
+            &:before {
+                vertical-align: text-top;
+            }
+        }
+        .u-ml3 {
+            color: #272727 !important;
+            font-family: "HelveticaNeue" !important;
+            line-height: 20px !important;
+        }
+    }
+}
